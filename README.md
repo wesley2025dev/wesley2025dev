@@ -54,7 +54,9 @@ Email: wesleymthunzi033@gmail.com
 
 GitHub: github.com/wesley2025dev
 
-Website / Portfolio: https://my-profile-three-wheat.vercel.app/
+Website / Portfolio:  www.linkedin.com/in/
+wesley-sibuyi
+
 
 😄 Pronouns
 
