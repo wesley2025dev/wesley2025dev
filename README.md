@@ -50,12 +50,11 @@ APIs and integrations
 
 📫 How to reach me
 
-Email: wesleysibuyidev@gmail.com
- (example—replace if needed)
+Email: wesleymthunzi033@gmail.com
 
 GitHub: github.com/wesley2025dev
 
-Website / Portfolio: (add your link here)
+Website / Portfolio: https://my-profile-three-wheat.vercel.app/
 
 😄 Pronouns
 
