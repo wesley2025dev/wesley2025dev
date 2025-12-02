@@ -5,10 +5,15 @@ I'm Wesley Sibuyi, a passionate Software Developer focused on building real-worl
 🔭 I’m currently working on
 
 VillageUp.Jobs – A job recruitment and career support website
+
 Villageup.co.za- a company platform where it teells you moore about villageup
+
 School Safe Track App – A child check-in and safety management platform
-Car website- A selling and buying cars website 
-bookwise app- a online libraary book website 
+
+Car website- A selling and buying cars website
+
+bookwise app- a online libraary book website
+
 Various React + Firebase dashboards, admin systems,  and PWAs
 
 🌱 I’m currently learning
