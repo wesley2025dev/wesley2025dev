@@ -1,13 +1,14 @@
 Hi there 👋
 
-I'm Wesley Sibuyi, a passionate Software Developer focused on building real-world solutions using modern technologies like React, Node.js, Firebase, Java, and MySQL. I love creating clean, functional, and user-friendly applications — especially in the fields of education, admin systems, and productivity tools.
+I'm Wesley Sibuyi, a passionate Software Developer focused on building real-world solutions using modern technologies like  lovabele, HTML&CSS, JavaScript, Python, React, Node.js, Firebase, Java, and MySQL. I love creating clean, functional, and user-friendly applications — especially in the fields of education, admin systems, and productivity tools.
 
 🔭 I’m currently working on
 
+VillageUp.Jobs – A job recruitment and career support website
+Villageup.co.za- a company platform where it teells you moore about villageup
 School Safe Track App – A child check-in and safety management platform
-
-VillageUp Jobs – A job recruitment and career support website
-
+Car website- A selling and buying cars website 
+bookwise app- a online libraary book website 
 Various React + Firebase dashboards, admin systems,  and PWAs
 
 🌱 I’m currently learning
